@@ -1,0 +1,199 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2002-11-01 04:27+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .project:1
+msgid "Light browser based on WebKit component"
+msgstr ""
+
+#: FAuth.form:17
+msgid "Please authenticate"
+msgstr ""
+
+#: FAuth.form:39 FOption.form:43
+msgid "User"
+msgstr ""
+
+#: FAuth.form:50 FOption.form:48
+msgid "Password"
+msgstr ""
+
+#: FAuth.form:72 FOption.form:62
+msgid "OK"
+msgstr ""
+
+#: FAuth.form:78 FOption.form:68
+msgid "Cancel"
+msgstr ""
+
+#: FBrowser.form:69
+msgid "Gambas WebKit"
+msgstr ""
+
+#: FBrowser.form:86
+msgid "-2"
+msgstr ""
+
+#: FBrowser.form:91
+msgid "-1"
+msgstr ""
+
+#: FBrowser.form:96
+msgid "0"
+msgstr ""
+
+#: FBrowser.form:101
+msgid "+1"
+msgstr ""
+
+#: FBrowser.form:106
+msgid "+2"
+msgstr ""
+
+#: FBrowser.form:111
+msgid "+3"
+msgstr ""
+
+#: FBrowser.form:116
+msgid "+4"
+msgstr ""
+
+#: FBrowser.form:135
+msgid "Refresh"
+msgstr ""
+
+#: FBrowser.form:156
+msgid "Toggle edit mode"
+msgstr ""
+
+#: FBrowser.form:219
+msgid "Copy"
+msgstr ""
+
+#: FBrowser.form:227
+msgid "Cut"
+msgstr ""
+
+#: FBrowser.form:235
+msgid "Paste"
+msgstr ""
+
+#: FBrowser.form:243
+msgid "Undo"
+msgstr ""
+
+#: FBrowser.form:251
+msgid "Redo"
+msgstr ""
+
+#: FBrowser.form:263 FEditable.form:18
+msgid "Bold"
+msgstr ""
+
+#: FBrowser.form:271
+msgid "Italic"
+msgstr ""
+
+#: FBrowser.form:279
+msgid "Underline"
+msgstr ""
+
+#: FBrowser.form:287
+msgid "Strikethrough"
+msgstr ""
+
+#: FBrowser.form:299
+msgid "Left aligned"
+msgstr ""
+
+#: FBrowser.form:307
+msgid "Centered"
+msgstr ""
+
+#: FBrowser.form:315
+msgid "Right aligned"
+msgstr ""
+
+#: FBrowser.form:323
+msgid "Justified"
+msgstr ""
+
+#: FBrowser.form:335
+msgid "Indent"
+msgstr ""
+
+#: FBrowser.form:343
+msgid "Unindent"
+msgstr ""
+
+#: FBrowser.form:355
+msgid "Ordered list"
+msgstr ""
+
+#: FBrowser.form:363
+msgid "Unordered list"
+msgstr ""
+
+#: FBrowser.form:373
+msgid "Text color"
+msgstr ""
+
+#: FBrowser.form:379
+msgid "Text background"
+msgstr ""
+
+#: FBrowser.form:385
+msgid "Font family"
+msgstr ""
+
+#: FBrowser.form:395
+msgid "Font size"
+msgstr ""
+
+#: FBrowser.form:420
+msgid "Developed by Ludwin Hernández, under license GNU"
+msgstr ""
+
+#: FDownload.form:18
+msgid "Starting download..."
+msgstr ""
+
+#: FDownloadList.form:9
+msgid "Download manager"
+msgstr ""
+
+#: FOption.form:21
+msgid "Proxy configuration"
+msgstr ""
+
+#: FOption.form:28
+msgid "Type"
+msgstr ""
+
+#: FOption.form:33
+msgid "Host"
+msgstr ""
+
+#: FOption.form:38
+msgid "Port"
+msgstr ""
+
+#: FOption.form:81
+msgid "No proxy"
+msgstr ""
+
+#: FOption.form:81
+msgid "HTTP proxy"
+msgstr ""
+
+#: FOption.form:81
+msgid "SOCKS5 proxy"
+msgstr ""
